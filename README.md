@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm YASH SUTHAR</h1>
 <h3 align="center">LEARNING NEW THINGS EVERYDAY.</h3>
 
