@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash636261&label=Profile%20views&color=0e75b6&style=flat" alt="yash636261" /> </p>
 
-- 🌱 I’m currently learning **DSA,python**
+- 🌱 I’m currently learning **DSA,python,frontend**
 
 - 🤝 I’m looking for help with **python,DSA**
 
