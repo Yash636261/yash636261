@@ -25,3 +25,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash636261&" alt="yash636261" /></p>
 
  [![@yashsuthar's Holopin board](https://holopin.me/yashsuthar)](https://holopin.io/@yashsuthar)
+ 
+ <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/yash636261/yash636261/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
