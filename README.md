@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>hii everyone i am yash suthar a front-end developer from india.</h3>
+<h3>-hello everyone i am yash suthar a front-end developer from india.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash636261&label=Profile%20views&color=0e75b6&style=flat" alt="yash636261" /> </p>
