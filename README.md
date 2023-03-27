@@ -16,8 +16,8 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=yash__dev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+<!-- 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
