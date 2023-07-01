@@ -3,15 +3,20 @@
 <img src="https://github.com/Yash636261/yash636261/blob/main/GIthub_banner.jpg?raw=true" alt"banner image">
 <div align="center">
 
- I love designing unique website and exploring new stuffs.
+<h3>
+I'm a web devloper who loves creating unique websites.<br>
+I have a passion for exploring new technologies and enjoy participating in hackathons to showcase my skills and collaborate with others.
+</h3>
+
 
 </div>
+<br/>
 
 A little bit about myself and what I do - 
 -  B.E. Computer Science and Engineering.
 - 🧑‍🔧 MERN devloper.
 - 🚀 currently learning NEXT.js.
-- ☁️ r
+- ☁️ 4X hacathone winner
 
 <h2>Connet With Me</h2>
 <a href="https://twitter.com/yash__dev"><img src="https://cdn1.iconfinder.com/data/icons/somacro___dpi_social_media_icons_by_vervex-dfjq/500/twitter.png" alt="Twitter" width"32" height="32"></a>
