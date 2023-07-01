@@ -1,5 +1,6 @@
 
 <h2>About Me</h2>
+<img src="./Github_banner.jpg" alt"banner image">
 <div align="center">
 
  I love designing unique website and exploring new stuffs.
