@@ -1,6 +1,6 @@
 
 <h2>About Me</h2>
-<img src="./Github_banner.jpg" alt"banner image">
+<img src="https://github.com/Yash636261/yash636261/blob/main/GIthub_banner.jpg?raw=true" alt"banner image">
 <div align="center">
 
  I love designing unique website and exploring new stuffs.
