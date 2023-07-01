@@ -16,6 +16,7 @@ A little bit about myself and what I do -
 <h2>Connet With Me</h2>
 <a href="https://twitter.com/yash__dev"><img src="https://cdn1.iconfinder.com/data/icons/somacro___dpi_social_media_icons_by_vervex-dfjq/500/twitter.png" alt="Twitter" width"32" height="32"></a>
 <a href="https://www.linkedin.com/in/yash-suthar-22339124a"><img src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo.png" alt="LinkedIN" width"32" height="32"></a>
+<a href="https://mail.google.com/mail/u/0/?hl=en/#advanced-search/to=ysuthar8055%40gmail.com&query=in%3Adraft&isrefinement=true&todisplay=Yash+Suthar?compose=new"><img src="https://cdn1.iconfinder.com/data/icons/basic-22/512/1047_fav_msg_c-512.png" alt="Mail" width"32" height="32"></a>
 
 <br>  
   
