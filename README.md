@@ -16,7 +16,7 @@ A little bit about myself and what I do -
 -  B.E. Computer Science and Engineering.
 - 🧑‍🔧 MERN devloper.
 - 🚀 currently learning NEXT.js.
-- ☁️ 4X hacathone winner
+- ☁️ 4X hackathone winner
 
 <h2>Connet With Me</h2>
 <a href="https://twitter.com/yash__dev"><img src="https://cdn1.iconfinder.com/data/icons/somacro___dpi_social_media_icons_by_vervex-dfjq/500/twitter.png" alt="Twitter" width"32" height="32"></a> &nbsp;
