@@ -15,7 +15,7 @@ I have a passion for exploring new technologies and enjoy participating in hacka
 ## A little bit about myself and what I do
 - :mortar_board: B.E. in Computer Science and Engineering.
 - 👨🏽‍💻 MERN stack developer.
-- 📘 Currently learning NEXT.js.
+- 📘 Currently learning DevOps.
 - 🏆 Four-time hackathon winner.
 
 ## Connet With Me
