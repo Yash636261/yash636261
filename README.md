@@ -3,10 +3,10 @@
 <img src="https://github.com/Yash636261/yash636261/blob/main/GIthub_banner.jpg?raw=true" alt"banner image">
 <div align="center">
 
-<h3>
-I'm a web devloper who loves creating unique websites.<br>
-I have a passion for exploring new technologies and enjoy participating in hackathons to showcase my skills and collaborate with others.
-</h3>
+<h4>
+I am Yash Suthar, a dedicated Full Stack Developer deeply involved in the world of open-source contribution.</br> 
+Over time, I've actively engaged in various hackathons, meetups, and tech events, leveraging these platforms not only to enhance my own skills but also to mentor and guide aspiring developers within the community. 
+</h4>
 
 
 </div>
@@ -18,8 +18,13 @@ I have a passion for exploring new technologies and enjoy participating in hacka
 - 📘 Currently learning DevOps.
 - 🏆 Four-time hackathon winner.
 
-## Connet With Me
+## Contact Me
 
+- Email: <a href="mailto:ysuthar8055@gmail.com" style="text-decoration: none; color: #007bff;">ysuthar8055@gmail.com</a>
+- Twitter: <a href="https://twitter.com/yash__dev" style="text-decoration: none; color: #007bff;">@yash__dev</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/yash-suthar-22339124a" style="text-decoration: none; color: #007bff;">Yash Suthar</a>
+
+<!--
 <html>
 <a href="https://twitter.com/yash__dev"><img src="https://cdn1.iconfinder.com/data/icons/somacro___dpi_social_media_icons_by_vervex-dfjq/500/twitter.png" alt="Twitter" width"32" height="32"></a> &nbsp;
 <a href="https://www.linkedin.com/in/yash-suthar-22339124a"><img src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo.png" alt="LinkedIN" width"32" height="32"></a>&nbsp; 
