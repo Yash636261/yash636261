@@ -18,6 +18,16 @@ Over time, I've actively engaged in various hackathons, meetups, and tech events
 - 📘 Currently learning DevOps.
 - 🏆 Four-time hackathon winner.
 
+  
+## 🛠 Tech Stack ##
+
+- 💻 &nbsp; **Languages:** C++ | JavaScript
+- 🌐 &nbsp; **Web Technologies:** HTML | CSS | Bootstrap | React.js | Node.js | Next.js | GSAP | Express.js
+- 🛢️ &nbsp; **Database:** MongoDB | PostgreSQL
+- ☁ &nbsp; **Cloud Platforms:** Netlify | Vercel | Docker
+- 🔧 &nbsp; **Tools:** GitHub | Git | Visual Studio Code
+
+
 ## Contact Me
 
 - Email: <a href="mailto:ysuthar8055@gmail.com" style="text-decoration: none; color: #007bff;">ysuthar8055@gmail.com</a>
