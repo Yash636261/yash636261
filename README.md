@@ -5,7 +5,7 @@
 
 <h4>
 I am Yash Suthar, a dedicated Full Stack Developer deeply involved in the world of open-source contribution.</br> 
-Over time, I've actively engaged in various hackathons, meetups, and tech events, leveraging these platforms not only to enhance my own skills but also to mentor and guide aspiring developers within the community. 
+I like researching and getting to know how things started or how I could improve them! Over time, I've actively engaged in various hackathons, meetups, and tech events, leveraging these platforms not only to enhance my own skills but also to mentor and guide aspiring developers within the community. 
 </h4>
 
 
