@@ -13,7 +13,7 @@ I like researching and getting to know how things started or how I could improve
 <br/>
 
 ## A little bit about myself and what I do
-- 👨🏽‍💻 Currently working as Full-Stack developer at AntiChurn.
+- 👨🏽‍💻 Currently working as Full-Stack developer at Bundled.design.
 - :mortar_board: B.E. in Computer Science and Engineering.
 - 📘 MERN stack developer.
 - 🏆 Four-time hackathon winner.
